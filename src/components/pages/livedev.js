@@ -47,7 +47,7 @@ function LiveDev() {
         <div className="twitch-embed">
           <iframe
             title="Twitch Stream"
-            src="https://player.twitch.tv/?channel=eshan_singh&parent=eshan-singh78.github.io"
+            src="https://player.twitch.tv/?channel=eshan_singh&parent=dev-es-web.netlify.app"
             frameBorder="0"
             allowFullScreen="true"
             scrolling="no"
@@ -59,7 +59,7 @@ function LiveDev() {
           <iframe
             title="Twitch Chat"
             id="chat_embed"
-            src="https://www.twitch.tv/embed/eshan_singh/chat?parent=eshan-singh78.github.io"
+            src="https://www.twitch.tv/embed/eshan_singh/chat?parent=dev-es-web.netlify.app"
             height="500"
             width="350">
           </iframe>
