@@ -29,7 +29,7 @@ Welcome to my portfolio website! This website showcases my projects, features an
 - Microservice for Contact Form
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-website.git`
+1. Clone the repository: `git clone https://github.com/eshan-singh78/dev-es-web.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
