@@ -40,7 +40,7 @@ function LiveDev() {
 
   return (
     <div className="live-dev-container">
-      <div className="home-container" style={{ height: 'calc(50vh - 80px)' }}>
+      <div className="home-container" style={{ height: 'calc(100vh - 80px)' } }>
         {renderIcons()}
       </div>
       <div className="twitch-container">
@@ -51,8 +51,8 @@ function LiveDev() {
             frameBorder="0"
             allowFullScreen="true"
             scrolling="no"
-            height="378"
-            width="620">
+            height="500"
+            width="1000">
           </iframe>
         </div>
         <div className="twitch-chat">
